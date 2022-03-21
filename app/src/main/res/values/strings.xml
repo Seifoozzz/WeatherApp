@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="home_main_humidityTV">humidity</string>
+    <string name="home_main_windTV">wind</string>
+    <string name="home_main_cloudsTV">clouds</string>
+    <string name="home_main_pressureTV">pressure</string>
+    <string name="home_label_hourlyTV">hourly</string>
+    <string name="home_label_dailyTV">daily</string>
+    <string name="met_per_sec">m/s</string>
+    <string name="hPa">hPa</string>
+    <string name="home_hourly_am">AM</string>
+    <string name="home_hourly_pm">PM</string>
+    <string name="days_humidity">humidity</string>
+    <string name="days_sat">Saturday</string>
+    <string name="days_sun">Sunday</string>
+    <string name="days_mon">Monday</string>
+    <string name="days_tue">Tuesday</string>
+    <string name="days_wed">Wednesday</string>
+    <string name="days_thu">Thursday</string>
+    <string name="days_fri">Friday</string>
+    <string name="home_data" translatable="false">---</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_alarm">Alarm</string>
+    <string name="menu_feedback">Feedback</string>
+    <!-- Preference Titles -->
+    <string name="Settings_header">Settings</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="language_title">Language</string>
+    <string name="units_title">Units</string>
+    <string name="humidity">humidity: %s</string>
+    <string name="clouds">Clouds: %s</string>
+    <string name="favourite">favourite</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="Yes">yes</string>
+    <string name="No">No</string>
+
+    <!-- Sync Preferences -->
+    <string name="deleteDialogtitle">Are you sure you want to delete ?</string>
+    <string name="deleteDialogSupportingText">This city will be deleted immediately. You can\'t undo this action.</string>
+    <string name="deleteDialogCancel">Cancel</string>
+    <string name="deleteDialogDelete">Delete</string>
+
+
+</resources>

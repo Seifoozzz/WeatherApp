@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="home_main_humidityTV">رطوبه</string>
+    <string name="home_main_windTV">رياح</string>
+    <string name="home_main_cloudsTV">سحب</string>
+    <string name="home_main_pressureTV">ضغط</string>
+    <string name="home_label_hourlyTV">ساعات</string>
+    <string name="home_label_dailyTV">يومس</string>
+    <string name="met_per_sec">م/ث</string>
+    <string name="hPa">hPa</string>
+    <string name="home_hourly_am">صباحا</string>
+    <string name="home_hourly_pm">مساء</string>
+    <string name="days_humidity">ضغط</string>
+    <string name="days_sat">السبت</string>
+    <string name="days_sun">الاحد</string>
+    <string name="days_mon">الاثنين</string>
+    <string name="days_tue">اللاثاء</string>
+    <string name="days_wed">الاربعاء</string>
+    <string name="days_thu">الخميس</string>
+    <string name="days_fri">الجمعه</string>
+    <string name="home_data" translatable="false">---</string>
+    <string name="menu_settings">الاعدادات</string>
+    <string name="menu_alarm">المنبه</string>
+    <string name="menu_feedback">Feedback</string>
+    <!-- Preference Titles -->
+    <string name="Settings_header">Settings</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="language_title">اللغه</string>
+    <string name="units_title">الوحده</string>
+    <string name="humidity">الضغط: %s</string>
+    <string name="clouds">سحب: %s</string>
+    <string name="favourite">المفضله</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">الغاء</string>
+    <string name="Yes">نعم</string>
+    <string name="No">لا</string>
+    <string name="deleteDialogtitle">هل انت متاكد من المسح؟</string>
+    <string name="deleteDialogSupportingText">هذه المدينه سوف يتم مسحها نهائيا اتريد منع ذلك ؟</string>
+    <string name="deleteDialogCancel">الغاء</string>
+    <string name="deleteDialogDelete">مسح</string>
+</resources>
